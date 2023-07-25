@@ -1,5 +1,5 @@
 # TypstNotes
-Typst templates and examples for notetaking
+See [main.pdf](main.pdf) for the compiled version.
 
 # VS Code extensions
 - Typst-LSP (nvarner.typst-lsp)
