@@ -9,6 +9,7 @@
 ) = {
   set page(margin: (top: 2cm))
   set text(font: "PT Sans")
+  set heading(numbering: "1.1.A")
 
   align(center, text(17pt)[
     #if title != none {
@@ -25,8 +26,8 @@
     description
     v(1cm)
   }
-  
-  outline()
+
+  outline(indent: auto)
   pagebreak()
   
   body
